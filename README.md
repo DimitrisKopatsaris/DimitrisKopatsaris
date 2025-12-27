@@ -1,3 +1,21 @@
+# 👋 Hi, I’m Dimitris Kopatsaris
+
+Backend Software Engineer with a strong focus on **C# / ASP.NET Core**.  
+BSc & MSc in **Electrical and Computer Engineering from Aristotle University of Thessaloniki**, with an interest in building **production-oriented backend systems**.
+
+---
+
+## 🚀 What I Build
+- RESTful APIs with **ASP.NET Core**
+- Authentication & authorization with **JWT**
+- Clean internal structure (Controllers → Services → Repositories)
+- Custom middleware for logging, metrics, and error handling
+- Data persistence with **Entity Framework Core**
+- Containerized services with **Docker**
+- Observability with **Prometheus, Grafana, and Loki**
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔐 Auth API
